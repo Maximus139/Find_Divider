@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1519313188 source:c:\users\Макс\desktop\trial division\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
+1519905963 source:c:\users\Макс\desktop\Проги\trial division\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
